@@ -1,0 +1,10 @@
+#embedding dir
+data/glove/300d.txt
+
+#data dir
+data/query/test_0
+data/query/train_0
+
+#data format
+qid\tquery\tT
+qid\tquery\tF
