@@ -1,3 +1,5 @@
+This code classify whether sentences are paraphrased.
+
 #embedding dir
 data/glove/300d.txt
 
